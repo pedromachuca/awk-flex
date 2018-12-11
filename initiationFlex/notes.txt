@@ -1,0 +1,14 @@
+^ => debut de ligne
+$ => fin de ligne
+. => Le point indique n'importe quel caractère
+* => Indique 0, 1 ou plusieurs occurrences du caractère ou de la classe précédente
++ => 1 ou plus
+? => 0 ou 1
+[] => compris dans
+
+
+flex firstFlex.l
+gcc lex.yy.c -o check.basic -lfl
+./check.basic confrouter.txt
+
+xargs : command unix permettant de multiprocesser des instructions
