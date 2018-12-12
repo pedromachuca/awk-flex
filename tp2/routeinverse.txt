@@ -1,0 +1,44 @@
+2 vers 4 via  10.0.0.1
+1 vers 4 via  10.0.0.1
+2 vers 4 via  10.0.0.2
+4 vers 1 via  11.0.0.1
+4 vers 1 via  11.0.0.1
+2 vers 3 via  12.0.0.1
+1 vers 3 via  12.0.0.1
+4 vers 2 via  13.0.0.1
+4 vers 2 via  13.0.0.1
+3 vers 2 via  13.0.0.1
+8 vers 6 via  13.0.0.2
+2 vers 4 via  10.0.0.1
+1 vers 4 via  10.0.0.1
+2 vers 4 via  10.0.0.2
+4 vers 1 via  11.0.0.1
+4 vers 1 via  11.0.0.1
+2 vers 3 via  12.0.0.1
+1 vers 3 via  12.0.0.1
+4 vers 2 via  13.0.0.1
+4 vers 2 via  13.0.0.1
+3 vers 2 via  13.0.0.1
+8 vers 6 via  13.0.0.2
+2 vers 4 via  10.0.0.1
+1 vers 4 via  10.0.0.1
+2 vers 4 via  10.0.0.2
+4 vers 1 via  11.0.0.1
+4 vers 1 via  11.0.0.1
+2 vers 3 via  12.0.0.1
+1 vers 3 via  12.0.0.1
+4 vers 2 via  13.0.0.1
+4 vers 2 via  13.0.0.1
+3 vers 2 via  13.0.0.1
+8 vers 6 via  13.0.0.2
+13.0.0.1  2 vers 4 via  10.0.0.1
+11.0.0.1  1 vers 4 via  10.0.0.1
+13.0.0.2  2 vers 4 via  10.0.0.2
+10.0.0.1  4 vers 1 via  11.0.0.1
+10.0.0.2  4 vers 1 via  11.0.0.1
+13.0.0.1  2 vers 3 via  12.0.0.1
+11.0.0.1  1 vers 3 via  12.0.0.1
+10.0.0.1  4 vers 2 via  13.0.0.1
+10.0.0.2  4 vers 2 via  13.0.0.1
+12.0.0.1  3 vers 2 via  13.0.0.1
+18.0.0.1  8 vers 6 via  13.0.0.2
